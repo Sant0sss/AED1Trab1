@@ -18,6 +18,6 @@ então voltei ao código padrão.
 <a href="https://leetcode.com/problems/longest-nice-substring/">LeetCode 1763</a></blockquote> 
 
 <h3>Informações do Aluno: </h3>
-<h5>Nome: Arthur Ferreira dos Santos</h4>
+<blockquote><h5>Nome: Arthur Ferreira dos Santos</h4>
 <h5>Turma: M2</h4>
-<h5>Curso: Ciência da Computação</h4>
+<h5>Curso: Ciência da Computação</h4></blockquote>
