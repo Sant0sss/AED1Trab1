@@ -19,7 +19,7 @@ então voltei ao código padrão.
 
 <h3>Link do Video Explicação: </h3>
 <blockquote><h5>Link do Video Explicação</h4>
-<a href="https://drive.google.com/uc?id=13nRWSR6BNYDOi658wfIZSWJ5ylzWLw7E&export=download">Video Explicação</a></blockquote> 
+<a href="https://drive.google.com/file/d/13nRWSR6BNYDOi658wfIZSWJ5ylzWLw7E/view?usp=sharing">Video Explicação</a></blockquote> 
 
 <h3>Informações do Aluno: </h3>
 <blockquote><h5>Nome: Arthur Ferreira dos Santos</h4>
