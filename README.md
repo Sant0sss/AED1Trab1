@@ -13,9 +13,13 @@ até que eu consegui e usei quase todo o código feito ema aula e adicionei o qu
 adicionar free em umas partes que achei que ia funcionar mas acabou que não funcionou, o código parava de mostrar o resultado
 então voltei ao código padrão. 
 
-<h3>Informações do Código: </h3>
+<h3>Link do Código no LeetCode: </h3>
 <blockquote><h5>Link do Código no LeetCode</h4>
 <a href="https://leetcode.com/problems/longest-nice-substring/">LeetCode 1763</a></blockquote> 
+
+<h3>Link do Video Explicação: </h3>
+<blockquote><h5>Link do Video Explicação</h4>
+<a href="https://leetcode.com/problems/longest-nice-substring/">Video Explicação</a></blockquote> 
 
 <h3>Informações do Aluno: </h3>
 <blockquote><h5>Nome: Arthur Ferreira dos Santos</h4>
